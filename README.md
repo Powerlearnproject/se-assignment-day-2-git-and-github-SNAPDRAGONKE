@@ -108,9 +108,11 @@ Community Involvement: Public repositories can attract a large community of cont
 Private Repository:
 Controlled Collaboration: Collaboration is limited to invited members, which allows for more controlled and secure development. The project owner has full control over who can access the repository and contribute to it.
 Focused Development: Since the repository is private, the collaboration is usually more focused, with a smaller team working closely together. This can result in more cohesive and deliberate progress.
-##Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?What Are Commits?
-Commits are snapshots of your project's files at a particular point in time. They serve several key purposes:
 
+##Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+What Are Commits?
+
+Commits are snapshots of your project's files at a particular point in time. They serve several key purposes:
 Track Changes: Each commit records changes made to the project, including which files were altered and how. This allows you to see the history of changes over time.
 Manage Versions: Commits help manage different versions of your project. You can revert to previous commits, create branches from specific commits, and understand the evolution of your project.
 Collaborate Effectively: Commits make it easier to collaborate with others. They provide a clear history of changes, making it simpler to resolve conflicts, review contributions, and track progress.
